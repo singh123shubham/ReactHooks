@@ -1,3 +1,7 @@
+// ? useReducer is a React hook that allows you to manage state in your components using a reducer
+//  ? function. It's similar to useState, but it's more suitable for managing complex state that involves
+// ? multiple values and more complicated state transitions.
+
 import React, { useReducer, useState } from 'react';
 
 const initialState = {
